@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Baby You're Out",
+  "base_artist": "Mac DeMarco",
+  "createdAt": "2026-01-14T02:20:19.493321Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Baby You're Out",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/01_Baby_You're_Out_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Baby You’re Out - Demo",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/02_Baby_You’re_Out_-_Demo_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby, You're Out of My Mind",
+      "artist": "Graham Coxon",
+      "has_synced": true,
+      "path": "select/03_Baby,_You're_Out_of_My_Mind_Graham_Coxon.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Baby You're Out",
+      "artist": "Mac DeMarco",
+      "has_synced": true,
+      "path": "select/04_Baby_You're_Out_Mac_DeMarco.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby, You're Out Of Your Mind",
+      "artist": "Graham Coxon",
+      "has_synced": true,
+      "path": "select/05_Baby,_You're_Out_Of_Your_Mind_Graham_Coxon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Baby You're Out",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/06_Baby_You're_Out_Mac_DeMarco.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Baby You’re Out",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/07_Baby_You’re_Out_Mac_DeMarco.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Baby You're Out",
+      "artist": "Mac DeMarco",
+      "has_synced": false,
+      "path": "select/pl_01_Baby_You're_Out_Mac_DeMarco.txt"
+    }
+  ]
+}
